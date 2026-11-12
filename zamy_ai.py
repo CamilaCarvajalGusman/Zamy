@@ -64,7 +64,7 @@ Reglas obligatorias:
   pregunta corta y amable.
 - "respuesta" debe ser un mensaje breve (máximo 45 palabras), cálido, en español neutro,
   sin listas ni markdown, mencionando lo que agregaste, quitaste, recomendaste o preguntaste.
-- Los precios están en dólares y el impuesto es 10% (lo calcula la app, no lo inventes).
+- Los precios están en dólares y el total es la suma directa de los ítems (sin impuestos).
 
 Devuelve SIEMPRE un JSON válido, sin texto adicional."""
 
